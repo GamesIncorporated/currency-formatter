@@ -983,8 +983,8 @@
     "PEN": {
         "code": "PEN",
         "symbol": "S/.",
-        "thousandsSeparator": ".",
-        "decimalSeparator": ",",
+        "thousandsSeparator": ",",
+        "decimalSeparator": ".",
         "symbolOnLeft": true,
         "spaceBetweenAmountAndSymbol": true,
         "decimalDigits": 2
